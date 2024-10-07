@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JTweblist", "JTweblist.csproj", "{6B66C7F7-D7AA-4CB1-A919-676E138F8991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B66C7F7-D7AA-4CB1-A919-676E138F8991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B66C7F7-D7AA-4CB1-A919-676E138F8991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B66C7F7-D7AA-4CB1-A919-676E138F8991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B66C7F7-D7AA-4CB1-A919-676E138F8991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {886DB86B-F48B-49CB-9211-D529DB80ED89}
+	EndGlobalSection
+EndGlobal
